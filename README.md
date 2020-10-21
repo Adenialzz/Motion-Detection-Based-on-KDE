@@ -19,12 +19,12 @@ This file is used to tune threshold of final binary image quickly.
 ## result.zip
 
 ### content
-This compressed file include some of results after running kde.py .
+This compressed file includes some of results after running kde.py .
 
 ## md_data.zip
 
 ### content
-This compressed file include some source material that can be used to motion detection.
+This compressed file includes some source material that can be used to motion detection.
 
 ### source
 <br>grass: From lesson DA and ML in DHU given by Prof. Dawei Li.</br>
