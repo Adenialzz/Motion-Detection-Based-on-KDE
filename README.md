@@ -1,4 +1,4 @@
-# Motion-Detection-Based-on-KDE# Motion-Detection-Based-on-Kernel-Density-Estimation
+# Motion-Detection-Based-on-KDE
 Kernel Density Estimation, DA and ML homework in DHU.
 
 This project is for simple motion detection based on KDE(Kernel Density Estimation).
